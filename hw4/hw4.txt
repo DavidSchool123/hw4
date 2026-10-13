@@ -1,1 +1,2 @@
-This is thhe new line added
+This is the new line added
+adding a new line to hw4.txt
